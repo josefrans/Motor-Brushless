@@ -1,2 +1,2 @@
 # Motor-Brushless
-encender cuatro motores Brushless en arduino, codigo en C.
+encender cuatro motores Brushless en arduino, codigo en C++
